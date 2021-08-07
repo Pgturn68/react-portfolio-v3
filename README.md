@@ -7,3 +7,7 @@ Important: Be sure to push your codebase to the default branch in GitHub -- NOT 
 
 ## Deployed Pages Link: https://pgturn68.github.io/react-portfolio-v3
 ## Github link: https://github.com/Pgturn68/react-portfolio-v3
+
+## Site Example
+![react portfolio](https://user-images.githubusercontent.com/78170157/128581676-e1116e89-a8e0-47d0-8f5b-4134923ac985.JPG)
+
